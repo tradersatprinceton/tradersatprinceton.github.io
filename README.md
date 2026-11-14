@@ -1,0 +1,1 @@
+This is a backup copy of https://tradersatprinceton.com, kept so the site can be opened on networks that block newly registered domains. Do not edit it here; changes are made in baryyiscool/traders-at-princeton and copied over with sync-backup.sh.
